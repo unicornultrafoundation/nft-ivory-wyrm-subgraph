@@ -1,4 +1,4 @@
 import {Address} from "@graphprotocol/graph-ts";
 
 
-export const ContractAddress = Address.fromString("0xC102BfEeE0674798Df49618E12b45FcD8e7C0EC0")
+export const ContractAddress = Address.fromString("0x60F46f868fca56F1a263BB629C98b1DBf0F6F145")
